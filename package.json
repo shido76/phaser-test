@@ -14,9 +14,6 @@
     },
     "author": "Richard Davey <rich@photonstorm.com> (http://www.photonstorm.com)",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/photonstorm/phaser3-typescript-project-template/issues"
-    },
     "homepage": "https://github.com/photonstorm/phaser3-typescript-project-template#readme",
     "dependencies": {},
     "devDependencies": {
